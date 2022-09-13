@@ -14,6 +14,7 @@ ZCZC W01 50 L32 YouTube: watching OS related topics, etc.
 ZCZC W01 10 L23 Bash, Regex, SED, AWK.
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W00 100 L05 Quiz related including studying
 ZCZC W01 5 L41 TXT/mylog.txt related
 ZCZC W01 35 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 5 L41 TXT/mylog.txt related
