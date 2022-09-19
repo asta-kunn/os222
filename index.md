@@ -1,7 +1,19 @@
-[HOME](https://github.com/asta-kunn/os222) | [LOG](https://github.com/asta-kunn/os222/blob/master/TXT/mylog.txt) | [LINKS](https://github.com/asta-kunn/os222/blob/master/links.md) | [GitHub](https://github.com/asta-kunn/os222)
-
-Hello!
-My name is Muhammad Rifqi Adli Gumay (2106752224)
-
-
-This is my static website for System Operation (OS222) course
+---
+---
+<span style="color:#008B8B; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[GITHUB]({{ site.githublink }})
+<br>
+<hr>
+This is {{ site.title }} and I am {{ site.author }}.
+<br><br>
+This is the way!
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
