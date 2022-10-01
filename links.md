@@ -36,3 +36,11 @@ this link can you read if you want learn Online Privacy. i recomended for you
 ## Week 03
 1. [Sistem File](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
 this website is very cool because explain about system file in detail.
+
+# Week 04
+1. [w3schools](https://www.w3schools.com/) 
+this website recomended to learn C lang for beginner 
+2. [hackerrank](https://www.hackerrank.com/)
+this website is recomended to practice coding and practice solve problem thinking for beginner - med
+3. [codeforces](https://codeforces.com/)
+this website usefull for people want to try competitive programming with C lang or ect lang
