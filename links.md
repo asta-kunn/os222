@@ -44,3 +44,9 @@ this website recomended to learn C lang for beginner
 this website is recomended to practice coding and practice solve problem thinking for beginner - med
 3. [codeforces](https://codeforces.com/)
 this website usefull for people want to try competitive programming with C lang or ect lang
+
+# Week 05
+1. [Operation System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) 
+The main visible advantage of this scheme is that programs can be larger than physical memory.
+2. [RAM in Linux](https://www.javatpoint.com/how-to-check-ram-in-linux)
+The RAM (Random Access Memory) is an essential component of a Linux system which has to be monitored closely. In some conditions, we may run out of memory with very slow response times to our server or completely unresponsive.
