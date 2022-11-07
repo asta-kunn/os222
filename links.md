@@ -37,7 +37,7 @@ this link can you read if you want learn Online Privacy. i recomended for you
 1. [Sistem File](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
 this website is very cool because explain about system file in detail.
 
-# Week 04
+## Week 04
 1. [w3schools](https://www.w3schools.com/) 
 this website recomended to learn C lang for beginner 
 2. [hackerrank](https://www.hackerrank.com/)
@@ -45,8 +45,22 @@ this website is recomended to practice coding and practice solve problem thinkin
 3. [codeforces](https://codeforces.com/)
 this website usefull for people want to try competitive programming with C lang or ect lang
 
-# Week 05
+## Week 05
 1. [Operation System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) 
 The main visible advantage of this scheme is that programs can be larger than physical memory.
 2. [RAM in Linux](https://www.javatpoint.com/how-to-check-ram-in-linux)
 The RAM (Random Access Memory) is an essential component of a Linux system which has to be monitored closely. In some conditions, we may run out of memory with very slow response times to our server or completely unresponsive.
+
+## Week 06
+1. [Process and Threads in OS](https://www.youtube.com/watch?v=ITc09gOrqZk)<br>
+This video explains the distinction between processes and threads using examples from everyday life. I frequently struggle with understanding this subject, but after viewing this video, you should have no trouble answering the questions.
+
+2. [Single-threaded and Multi-threaded Processes](https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes)<br>
+Single-threaded processes only carry out one set of instructions at a time. In other words, each command is handled separately. Multithreaded processes are the opposite of single-threaded processes. These procedures enable the concurrent execution of numerous program components. These are the available, light operations in the process.
+
+3. [All You Need To Know About Processes in Linux](https://www.tecmint.com/linux-process-management/)<br>
+A program in execution is referred to as a process; it is a running instance of a program. A process usually starts a new one when it produces an identical replica of itself in memory. The sole difference between the child process' environment and that of its parent is the process ID number. The first program launched when a Linux system boots is the Init process, which is the mother (parent) of all processes on the system.
+
+4. [fork in C](https://www.geeksforgeeks.org/fork-system-call/)
+One of the crucial concepts you need to understand in the Operating system course is the fork system call. A new process known as a "child process" is created with the fork system function and runs simultaneously with the process that invoked fork() (parent process).
+
