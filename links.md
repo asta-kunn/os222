@@ -77,3 +77,15 @@ A resource access can be synchronized using mutex, a mutual exclusion object. A 
 
 4. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
 Deadlock is a situation where a group (or more) of processes are unable to finish because they are each holding resources that the other processes require. It will become a cyclic wait in this circumstance.
+
+# Week 08
+
+1. [What is Linux From Scratch?](https://www.linuxfromscratch.org/lfs/)<br>
+This page site will explain why we need to build linux from scratch. After read this page, I a bit unsterstand why we need to do that.
+
+2. [INSTALLING LINUX FROM SCRATCH](https://youtu.be/S7N9D4IqHA0)<br>
+This is an amazing video. This video will definitely give you an idea of what will you face during the installation od linux from scratch.
+
+3. [Linux From Scratch](https://en.wikipedia.org/wiki/Linux_From_Scratch)<br>
+Linux From Scratch is a way to install a working Linux system by building all components of it manually. This is, naturally, a longer process than installing a pre-compiled Linux distribution. According to the Linux From Scratch site, the advantages to this method are a compact, flexible and secure system and a greater understanding of the internal workings of the Linux-based operating systems.
+
